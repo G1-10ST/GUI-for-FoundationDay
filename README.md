@@ -22,7 +22,6 @@ You can assume that
 * a. Login id of a judge is his/her email id.
 * b. Password is alphanumeric and string of length at least 7.
 
-Try to write the GUI code from scratch. Don’t use the Netbean’s drag and drop utility.
-.
+![](ss1.png)
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
